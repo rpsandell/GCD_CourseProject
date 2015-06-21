@@ -5,7 +5,7 @@
   * tidy_data.txt -- a tab-delimited text file that is the output of the function contained in run_analysis.R.
   * CodeBook.md -- information on variables contained in tidy_data.txt.
 
-# **Objective:**  *Create a tidy data based on wearable computing data collected from Samsung Galaxy S smartphones available at the UCI Machine Learning Repository.*
+# **Objective:**  *Create a tidy data set based on wearable computing data collected from Samsung Galaxy S smartphones available at the UCI Machine Learning Repository.*
 
 **Desired properties of the tidy data set:**
   * has a descriptive label for each predictor variable.
