@@ -1,4 +1,4 @@
-## **README for "Getting and Cleaning Data" Course Project
+## **README for "Getting and Cleaning Data" Course Project**
 
 **Files contained in this repository:**
   * run_analysis.R -- a script containing a single function ```run_analysis()```, which accepts a directory as an input, where data will be downloaded and code for producing the tidy data run. Alternatively, the user can run the individual lines of code within the function.
